@@ -4,3 +4,12 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 Nama : Putri Cantika Salsabilla 
 NPM : 2313020055
+
+## Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
+
+## Daftar File
+- README.md
+- perkenalan.md
